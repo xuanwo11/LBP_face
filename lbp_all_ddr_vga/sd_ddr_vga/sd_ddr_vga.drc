@@ -1,0 +1,8 @@
+Release 14.7 Drc P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Sun Jun 24 17:37:37 2018
+
+drc -z sd_ddr_vga.ncd sd_ddr_vga.pcf
+
+DRC detected 0 errors and 0 warnings.
